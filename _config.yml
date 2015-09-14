@@ -1,14 +1,14 @@
 # Site settings
-name: Slim Pickins Jekyll Theme
-email: 
-author: Chrisanthropic
+name: Nate Upham's web pages
+email: nathan.upham@yale.edu
+author: n8upham
 
-keywords: jekyll, jekyll theme, jekyll framework, stuffthings
+keywords: phylogenetics, evoltion
 description: > # this means to ignore newlines until "baseurl:"
-  Witty description here.
+  Witty man, that Nate...
 
-baseurl: /slim-pickins-jekyll-theme
-url: https://chrisanthropic.github.io
+baseurl: /home
+url: https://n8upham.github.io
 
 header: yes
 header_sm: images/banner-small.jpg
